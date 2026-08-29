@@ -150,9 +150,3 @@ Improve
 🧰 Tools
 
 VS Code · Git · GitHub · HTML · CSS · JavaScript
-
-
-<p align="center">
-  <b>🌱 Currently learning. Constantly building.</b>
-</p>
-```
