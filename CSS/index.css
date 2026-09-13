@@ -1,5 +1,9 @@
 body {
     background-color: rgb(120, 201, 231);
+    background: linear-gradient(lightblue, lightgreen);
+    background-image: url("Screenshot 2026-06-16 at 2.08.50 AM.png");
+    background-image: url("https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YmVhY2h8ZW58MHx8MHx8&w=1000&q=80");
+
 }
 h1{
     color: darkblue;
@@ -8,8 +12,18 @@ h1{
 #p1{
     color: red;
     font-size: 20px;
+    font-family: "arial", "sans-serif";
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    border-width: 5px;
+    padding: 10px;
 }
 .even{
     color: green;
     font-size: 20px;
+    font-family: "arial", "sans-serif";
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: wavy underline;
 }
